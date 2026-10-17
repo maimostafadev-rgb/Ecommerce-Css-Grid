@@ -80,6 +80,17 @@ li {
   gap: 2rem;
   margin: 0 auto;
 }
+.products .content-prod {
+  text-align: center;
+  letter-spacing: 2px;
+  margin-top: .4rem;
+  line-height: 1.5;
+}
+.products .content-prod .price {
+  color: #f81f1f;
+  font-size: 1.2rem;
+
+}
 .products .container .product {
   height: 360px;
   margin-bottom: 10rem;
